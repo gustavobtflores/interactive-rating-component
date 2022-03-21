@@ -6,6 +6,7 @@
   background-color: #141519;
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
+  min-width: 350px;
 }
 
 .hidden {
@@ -116,6 +117,21 @@
   align-items: center;
   opacity: 0;
   transition: opacity 0.2s;
+  position: relative;
+}
+
+.thanks-container_go-back {
+  position: absolute;
+  top: 32px;
+  left: 32px;
+  cursor: pointer;
+  padding: 4px;
+  transition: background-color 0.2s;
+  border-radius: 50%;
+}
+
+.thanks-container_go-back:hover {
+  background-color: #425261;
 }
 
 .thanks-container_image {
