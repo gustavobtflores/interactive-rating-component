@@ -1,0 +1,4 @@
+.rating-container {
+  background: rgb(35, 42, 50);
+  background: linear-gradient(90deg, rgba(35, 42, 50, 1) 0%, rgba(23, 30, 40, 1) 50%);
+}

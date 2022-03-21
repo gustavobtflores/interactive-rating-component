@@ -2,10 +2,11 @@
   "name": "interactive-rating-component",
   "version": "1.0.0",
   "description": "Challenge to develop a rating component (1 - 5) - Level: NEWBIE",
+  "type": "module",
   "main": "index.js",
   "author": "Gustavo Bernardo <gustavobtflores@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "sass": "^1.49.9"
+    "party-js": "^2.1.2"
   }
 }
