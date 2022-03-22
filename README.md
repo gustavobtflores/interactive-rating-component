@@ -8,6 +8,6 @@
 
 ## Author
 
-👤 **Gustavo Bernardo <gustavobtflores@gmail.com>**
-
 - Github: [@gustavobtflores](https://github.com/gustavobtflores)
+
+_Made with :heart: by Gustavo Bernardo_
