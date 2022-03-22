@@ -2,7 +2,7 @@
 
 ![Interactive rating component](https://i.imgur.com/q8IepGk.png)
 
-> Challenge to develop a rating component (1 - 5) - Level: NEWBIE
+> Challenge to develop a interactive rating component from FrontendMentor - Developed using HTML, CSS and JS only
 
 ### ✨ [Demo](https://interactive-rating-component-seven.vercel.app/)
 
