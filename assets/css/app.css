@@ -9,7 +9,7 @@
   height: 100vh;
   background-color: #141519;
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  font-family: "Overpass", sans-serif;
   min-width: 350px;
 }
 
@@ -27,7 +27,7 @@
   color: #ffffff;
   border-radius: 32px;
   width: 350px;
-  height: 350px;
+  height: 360px;
   transition: opacity 0.2s;
 }
 
@@ -44,7 +44,7 @@
 
 .rating-container_text-title {
   font-size: 28px;
-  font-weight: 500;
+  font-weight: 700;
   margin-bottom: 1rem;
   opacity: 0.9;
   letter-spacing: 1.5px;
@@ -99,6 +99,7 @@
   border-radius: 32px;
   cursor: pointer;
   transition: background-color 0.4s;
+  font-weight: 700;
 }
 
 .rating-container_submit:hover {
@@ -116,7 +117,7 @@
   color: #ffffff;
   border-radius: 32px;
   width: 350px;
-  height: 350px;
+  height: 360px;
   align-items: center;
   opacity: 0;
   transition: opacity 0.2s;
@@ -154,7 +155,7 @@
 .thanks-container_text-title {
   font-size: 2rem;
   line-height: 1.25em;
-  font-weight: 500;
+  font-weight: 700;
   margin-bottom: 1rem;
   opacity: 0.9;
   letter-spacing: 1.5px;
