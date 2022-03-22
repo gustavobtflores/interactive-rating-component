@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to interactive-rating-component 👋</h1>
 
-![Interactive rating component](https://i.imgur.com/q8IepGk.png)
+![Interactive rating component](https://i.imgur.com/CcOIor8.png)
 
 > Challenge to develop a interactive rating component from FrontendMentor - Developed using HTML, CSS and JS only
 
